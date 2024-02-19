@@ -1,0 +1,172 @@
+[
+  {
+      "ID": 1,
+      "SHPIIFY": 123456789,
+      "DATE": "2024-02-17",
+      "STATUS": "Pending",
+      "CUSTOMER": "Apex",
+      "EMAIL": "Apex1@gmail.com",
+      "COUNTRY": "china",
+      "SHIPPING": "Standard",
+      "SOURCE": "Online",
+      "ORDERTYPE": "Regular"
+  },
+  {
+      "ID": 2,
+      "SHPIIFY": 1234567890,
+      "DATE": "2024-02-16",
+      "STATUS": "Shipped",
+      "CUSTOMER": "Smith",
+      "EMAIL": "smith@gmail.com",
+      "COUNTRY": "Usa",
+      "SHIPPING": "Express",
+      "SOURCE": "In-store",
+      "ORDERTYPE": "Regular"
+  },
+  {
+      "ID": 3,
+      "SHPIIFY": 1234567098,
+      "DATE": "2024-02-15",
+      "STATUS": "Delivered",
+      "CUSTOMER": "Johnson",
+      "EMAIL": "johnson@gmail.com",
+      "COUNTRY": "UK",
+      "SHIPPING": "Standard",
+      "SOURCE": "Online",
+      "ORDERTYPE": "Regular"
+  },
+  {
+      "ID": 4,
+      "SHPIIFY": 456789012,
+      "DATE": "2024-02-14",
+      "STATUS": "Pending",
+      "CUSTOMER": "Bob Brown",
+      "EMAIL": "bob.brown@example.com",
+      "COUNTRY": "Australia",
+      "SHIPPING": "Express",
+      "SOURCE": "In-store",
+      "ORDERTYPE": "Urgent"
+  },
+  {
+      "ID": 5,
+      "SHPIIFY": 1233435467,
+      "DATE": "2024-02-13",
+      "STATUS": "Shipped",
+      "CUSTOMER": "Charlie ",
+      "EMAIL": "charlie@example.com",
+      "COUNTRY": "itlay",
+      "SHIPPING": "Standard",
+      "SOURCE": "Online",
+      "ORDERTYPE": "Regular"
+  },
+  {
+      "ID": 6,
+      "SHPIIFY": 8753245478,
+      "DATE": "2024-02-12",
+      "STATUS": "Delivered",
+      "CUSTOMER": "Wilson",
+      "EMAIL": "wilson@example.com",
+      "COUNTRY": "France",
+      "SHIPPING": "Express",
+      "SOURCE": "In-store",
+      "ORDERTYPE": "Urgent"
+  },
+  {
+      "ID": 7,
+      "SHPIIFY": 54252345,
+      "DATE": "2024-02-11",
+      "STATUS": "Pending",
+      "CUSTOMER": "Lee",
+      "EMAIL": "lee@gmail.com",
+      "COUNTRY": "Japan",
+      "SHIPPING": "Standard",
+      "SOURCE": "Online",
+      "ORDERTYPE": "Regular"
+  },
+  {
+      "ID": 8,
+      "SHPIIFY": 8456786565,
+      "DATE": "2024-02-10",
+      "STATUS": "Shipped",
+      "CUSTOMER": "Frank ",
+      "EMAIL": "frank@gmail.com",
+      "COUNTRY": "Brazil",
+      "SHIPPING": "Express",
+      "SOURCE": "In-store",
+      "ORDERTYPE": "Urgent"
+  },
+  {
+      "ID": 9,
+      "SHPIIFY": 876457576,
+      "DATE": "2024-02-09",
+      "STATUS": "Delivered",
+      "CUSTOMER": "Grace ",
+      "EMAIL": "grace@gmail.com",
+      "COUNTRY": "South Africa",
+      "SHIPPING": "Standard",
+      "SOURCE": "Online",
+      "ORDERTYPE": "Regular"
+  },
+  {
+      "ID": 10,
+      "SHPIIFY": 123456700,
+      "DATE": "2024-02-08",
+      "STATUS": "Pending",
+      "CUSTOMER": "Henry Cavil",
+      "EMAIL": "henry.Cavil@gmail.com",
+      "COUNTRY": "China",
+      "SHIPPING": "Express",
+      "SOURCE": "In-store",
+      "ORDERTYPE": "Urgent"
+  },
+  
+{
+    "ID": 14,
+    "SHPIIFY": 456789012,
+    "DATE": "2024-02-14",
+    "STATUS": "Pending",
+    "CUSTOMER": "Bob Brown",
+    "EMAIL": "bob.brown@example.com",
+    "COUNTRY": "Australia",
+    "SHIPPING": "Express",
+    "SOURCE": "In-store",
+    "ORDERTYPE": "Urgent"
+},
+{
+    "ID": 15,
+    "SHPIIFY": 7672763420,
+    "DATE": "2024-02-13",
+    "STATUS": "Shipped",
+    "CUSTOMER": "aman",
+    "EMAIL": "Aman1@gmail.com",
+    "COUNTRY": "Germany",
+    "SHIPPING": "Standard",
+    "SOURCE": "Online",
+    "ORDERTYPE": "Regular"
+},
+{
+    "ID": 16,
+    "SHPIIFY": 6474523287,
+    "DATE": "2024-02-12",
+    "STATUS": "Delivered",
+    "CUSTOMER": "Dark",
+    "EMAIL": "dark1@gmail.com",
+    "COUNTRY": "France",
+    "SHIPPING": "Express",
+    "SOURCE": "In-store",
+    "ORDERTYPE": "Urgent"
+},
+{
+    "ID": 17,
+    "SHPIIFY": 8387427621,
+    "DATE": "2024-02-11",
+    "STATUS": "Pending",
+    "CUSTOMER": "leo",
+    "EMAIL": "leo1@gmail.com",
+    "COUNTRY": "Tokyo",
+    "SHIPPING": "Standard",
+    "SOURCE": "Online",
+    "ORDERTYPE": "Regular"
+}
+
+]
